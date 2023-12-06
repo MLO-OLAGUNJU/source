@@ -1,5 +1,10 @@
-// console.log("hi");
+// let x;
+// console.log(x);
+// x = 7;
 let x = 7;
+x = 6;
+x = 23;
+x = 34;
 let y = 3;
 let z = x + y;
 console.log("Answer: " + z);
