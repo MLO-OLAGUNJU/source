@@ -15,6 +15,6 @@ console.log("Answer: " + z);
 let firstNumber = 7;
 let secondNumber = 3;
 let firstName = "Gold";
-let zipCode = "84763";
+let firstzipCode = "84763";
 
-let ZipCODE = "IY7788";
+let secodzipCode = "IY7788";
